@@ -17,12 +17,3 @@ Read through the code in `App.jsx`, `TaskList.jsx` and `Task.jsx` and their styl
     - Consider updating the appropriate rule sets to change the text or background color when a task is marked complete.
 
 The suggestions above should give you a strong foundation for working with Task List Front End. As time allows, follow your curiosity to explore more of the code and features.
-
-
-
-
-
-
-
-
-
